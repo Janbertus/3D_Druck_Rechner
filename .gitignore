@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# VS Code (optional, wenn du Workspaces privat halten willst)
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
